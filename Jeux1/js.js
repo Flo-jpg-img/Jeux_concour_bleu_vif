@@ -32,7 +32,13 @@ $('#btn-partage').click(function(){
 
   
   
+const input = document.querySelector('#in').value;
+const btn = document.querySelector('#btn');
 
+btn.addEventListener('click' , () => {
+ navigator.clipboard.writeText(input)
+  alert('lien du concour copié dans le presse-papier');
+})
 
   
 
