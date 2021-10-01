@@ -1,0 +1,615 @@
+
+.bgindex{
+    position: fixed; 
+ top: 0; 
+ left: 0; 
+
+ min-width: 100%;
+ min-height: 100%;
+}
+
+.ali{
+    position: absolute;
+    top: 60%;  
+    left: 50%; 
+
+    transform: translate(-50%, -50%);
+    
+    
+    
+  
+}
+.alig{
+    position: absolute;
+   
+   top: 10% !important;
+   right: 10%;
+  
+}
+
+
+.z:hover {
+    transform: scale(1.1)!important; 
+    
+    transition: all 150ms ease-out;
+
+}
+
+
+.mid{
+     vertical-align: middle !important;
+     font-family:  emoji;
+     
+}
+.titre{
+    font-family:  emoji;
+}
+#cn{
+    color:#242c44 ;
+}
+.img{
+    margin-top: 15%;
+  }
+
+.lien{
+   color: rgb(56, 55, 55);
+}
+.lien:hover{
+    color: #0d6efd;
+}
+.fb{
+    color: rgb(56, 55, 55);
+ }
+ .fb:hover{
+     color: #0d6efd;
+ }
+ .lk{
+    color: rgb(56, 55, 55);
+ }
+ .lk:hover{
+     color: #0d6efd;
+ }
+.envois{
+    display: none;
+}
+.block{
+    display:block;
+}
+#btn-partage{
+    
+    border: none;
+    
+}
+
+
+
+.bg{
+    background-color: rgba(253, 253, 253, 0.5);
+    border-radius: 10%;
+   
+}
+.coup { 
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    -ms-hyphens: auto;
+    hyphens: auto;
+  }
+.mail-remerci {
+    width:550px !important;
+    margin-left: auto;
+    margin-right: auto;
+}
+@media all and (max-width:500px) {
+    #form-insc{
+        font-size:0.8em;
+        position: absolute ;
+        right:0px;
+    }
+    .ali{
+        position: absolute;
+      
+    }
+    #h1,#h2{
+        font-size: 0.8em;
+    }
+    .mg{
+        margin-top: 50px!important;
+    }
+    #tail{
+        height: 100% !important;
+        width: 100%;
+    }
+
+}
+@media only screen and (min-width: 540px) {
+    #form-insc{
+        font-size:1em;
+        position: absolute;
+        right: 2%;
+    }
+    .alig{
+        position: absolute;
+       
+       top: 10% !important;
+       right: 0%;
+      
+    }
+    #text-footer{
+        position: absolute !important;
+       font-size: 0.8em;
+       top: 80%;
+       right: 1% !important;
+    }
+    
+    
+    }
+@media only screen and (min-width: 768px) {
+    .alig{
+        position: absolute;
+       
+       top: 15% !important;
+       right: 12%;
+       
+    }
+    #text-footer{
+        position: absolute !important;
+       font-size: 0.8em;
+       top: 80% !important;
+       right: 15% !important;
+    }
+    
+   
+    
+     
+            
+        
+           
+    
+    
+    
+    }
+@media only screen and (min-width: 1024px) {
+    #form-insc{
+            font-size:1.2em;
+            position: absolute;
+            right: 20%;
+        }
+        .alig{
+            position: absolute;
+           
+           top: 15% !important;
+           right: 15%;
+          
+        }
+        #text-footer{
+            position: absolute !important;
+           
+           top: 80% !important ;
+           right: 18% !important;
+        }
+
+    }
+
+@media only screen and (max-width: 360px) {
+            .imgage{
+                position: absolute;
+                height: 250px;
+                max-width: 100%;
+                right: -0px;
+            }
+            h1{
+                font-size:1em;
+                
+            }
+            #h1{
+                margin-top: 310px;
+                text-align: center;
+            }
+            .mail-remerci{
+                width:250px !important;
+                margin-left: auto;
+                margin-right: auto;
+            }
+            .alig{
+                position: absolute;
+               
+               top: 10% !important;
+               right: 0%;
+              
+            }
+            
+                
+            
+               
+}
+    
+@media all and (max-width:500px) {
+    .imgage{
+        position: absolute;
+                height: 250px;
+                max-width: 100%;
+                right: -0px;
+    }
+    h1{
+        font-size:1em;
+        
+    }
+    #h1{
+        margin-top: 310px;
+        text-align: center;
+    }
+    .mail-remerci{
+        width:250px !important;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+}
+
+.form-check .form-check-input{
+    float:none !important;
+}
+.btn-carou{
+    position: absolute !important;
+    right: 43% !important;
+    top: 115% !important;
+    
+}
+.suivant{
+    background-color: rgb(199, 28, 28);
+    opacity: 100%;
+}
+.back{
+    background-color: rgba(253, 253, 253, 0.5);
+    border-radius: 50rem ;
+   
+}
+.carousel{
+margin-top:4%;
+
+}
+.margi{
+    margin-top: 15%;
+}
+.tailles{
+    height: 306px !important;
+   
+}
+@media only screen and (max-width: 360px) {
+    .back{
+        border: none !important;
+    }
+    .res{
+        font-size: 0.8em ;
+    }
+    .tailles{
+        height: 294px !important;
+    }
+    .back{
+        border-radius: 60px !important;
+    }
+    .tail{
+        position: absolute;
+        height: 150px;
+        width: 360px;
+        top: 25%;  
+        left: 50%; 
+        
+    } 
+}
+
+
+   
+    
+       
+
+
+
+@media only screen and (max-width: 414px) {
+        .back{
+            border: none !important;
+        }
+        .res{
+            font-size: 0.8em ;
+        }
+        .tailles{
+            height: 294px !important;
+        }
+        .back{
+            border-radius: 60px !important;
+        }
+        .alig{
+            position: absolute;
+           
+           top: 10% !important;
+           right: 0%;
+          
+        }
+        #footer{
+            
+           font-size: 0.5em ;
+          
+        }
+       
+      
+        
+}
+
+
+
+
+@media only screen and (min-width: 768px) {
+        .tailles{
+            height: 294px !important;
+        }
+        .back{
+            border-radius: 60px !important;
+        }
+     
+            
+            
+}
+@media only screen and (min-width: 540px) {
+    .tailles{
+        height: 294px !important;
+    }
+    .back{
+        border-radius: 60px !important;
+    }
+   
+     
+    
+}
+@media only screen and (max-width: 280px) {
+    
+    .alig{
+        position: absolute;
+       
+       top: 10% !important;
+       right: 0%;
+      
+    }
+   
+}
+.item{
+    position: absolute;
+}
+#in{
+    opacity: 0% !important;
+}
+#tail{
+   
+    height: 350px;
+   
+    
+}
+.dn{
+    display: none !important;
+}
+#btnverif{
+    display: none;;
+}
+.btnverifdp{
+    display: block !important;
+    
+}
+.divbtn{
+    text-align: center !important;
+}
+#footer{
+    position: absolute !important;
+   
+   top: 95% ;
+   right: 30%;
+}
+#footer-jeux{
+    position: absolute !important;
+   
+   top: 95% ;
+   right: 45%;
+}
+@media (min-width:280px) { 
+    #footer-jeux{
+        position: absolute !important;
+       font-size: 0.4rem;
+       top: 85% ;
+       right: 0%;
+    }
+    #footer-jeux-1080{
+        position: absolute !important;
+       font-size: 0.35rem;
+       top: 120%;
+       left: 9%;
+ }
+ #footer-index{
+    position: absolute !important;
+   font-size: 0.1rem;
+   top: 95% ;
+  left: 35px;
+   
+}
+}
+@media (min-width: 320px) { 
+    #footer-jeux{
+        position: absolute !important;
+       font-size: 0.4rem;
+       top: 95% ;
+       right: 5%;
+    }
+    #footer-jeux-1080{
+        position: absolute !important;
+       font-size: 0.4rem;
+       top: 120%;
+       left: 10%;
+    }
+    #footer-index{
+        position: absolute !important;
+       font-size: 0.2rem;
+       top: 95% ;
+      left: 5%;
+       
+    }
+ }
+ @media (min-width: 360px) { 
+    #footer-jeux{
+        position: absolute !important;
+       font-size: 0.5rem;
+       top: 95% ;
+       right: 3%;
+    }
+    #footer-index{
+        position: absolute !important;
+       font-size: 0.2rem;
+       top: 95% ;
+      left: 8px;
+       
+    }
+    #footer-jeux-1080{
+        position: absolute !important;
+       font-size: 0.4rem;
+       top: 120%;
+       left: 15%;
+      
+      
+    }
+ }
+ @media (min-width: 375px) { 
+    #footer-jeux{
+        position: absolute !important;
+       font-size: 0.5rem;
+       top: 85% ;
+       right: 3%;
+    }
+    #footer-index{
+        position: absolute !important;
+       font-size: 0.2rem;
+       top: 95% ;
+      left: 8px;
+       
+    }
+ }
+ @media (min-width: 411px) { 
+    #footer-jeux{
+        position: absolute !important;
+       font-size: 0.5rem;
+       top: 85% ;
+       right: 8%;
+    }
+    #footer-jeux-1080{
+        position: absolute !important;
+       font-size: 0.4rem;
+       top: 120%;
+       left: 17%;
+    }
+    #footer-index{
+        position: absolute !important;
+       font-size: 0.2rem;
+       top: 95% ;
+      left: 1%;
+       
+    }
+ }
+ @media (min-width: 540px) { 
+    #footer-jeux{
+        position: absolute !important;
+       font-size: 0.5rem;
+       top: 95% ;
+       right: 17%;
+    }
+    #footer-jeux-1080{
+        position: absolute !important;
+       font-size: 0.4rem;
+       top: 120%;
+       left: 25%;
+    }
+    #footer-index{
+        position: absolute !important;
+       font-size: 0.3rem;
+       top: 95% ;
+      left: 28px;
+       
+    }
+ }
+@media (min-width: 576px) { 
+    #footer-jeux{
+        position: absolute !important;
+       font-size: 035rem;
+       top: 95% ;
+       right: 2%;
+    }
+ }
+
+
+@media (min-width: 768px) { 
+    #footer-jeux{
+        position: absolute !important;
+       font-size: 0.8rem;
+       top: 95% ;
+       right: 15%;
+    }
+    #footer-jeux-1080{
+        position: absolute !important;
+       font-size: 0.4rem;
+       top: 120%;
+       left: 32%;
+    }
+    #footer-index{
+        position: absolute !important;
+       font-size: 0.5rem;
+       top: 95% ;
+      left: 27px;
+       
+    }
+ }
+
+
+@media (min-width: 1024px) { 
+    #footer-jeux{
+        position: absolute !important;
+       font-size: 0.8rem;
+       top: 95% ;
+       right: 23%;
+    }
+    #footer-jeux-1080{
+        position: absolute !important;
+       font-size: 0.8rem;
+       top: 120%;
+       left: 25%;
+    }
+    #footer-index{
+        position: absolute !important;
+       font-size: 0.65rem;
+       top: 95% ;
+      left: 55px;
+       
+    }
+ }
+ @media (min-width: 1080px) { 
+    #footer-jeux{
+        position: absolute !important;
+       font-size: 0.8rem;
+       top: 95% ;
+      
+    }
+ }
+ @media (min-width: 1080px) { 
+    #footer-jeux-1080{
+        position: absolute !important;
+       font-size: 0.8rem;
+       top: 120%;
+       left: 35%;
+      
+      
+    }
+ }
+ canvas{
+    margin-left: 25%;
+    ;
+    width:900px !important;
+    height:600px !important;
+  }
+.cap{
+    margin-left: 27% !important;
+}
+
+

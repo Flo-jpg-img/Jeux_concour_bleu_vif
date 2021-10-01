@@ -1,0 +1,33 @@
+Connexion base de donné back office:
+id: bleuvif
+mdp:1X3HJPcuaGd74Yee
+
+Connexion base de donnés inscrit:
+id:inscritjeux
+mdp:SO9gxsfmcCPYB0cf
+
+Connexion au back office:
+id:etchecoparflorent@gmail.com
+mdp:bleuvifff64
+
+Connexion bdd avec tout les jeux:
+id:General
+mdp:OaXl4mU2voQsjsDz
+
+
+
+Connexion base de donné back office jeux 2:
+id: bleuvif2
+mdp:1eidGDRGiMcxMuBH
+
+Connexion base de donnés inscrit2:
+id:inscritjeux2
+mdp:78XaMmlUIeSFUtiI
+
+
+
+ReCaptcha:
+
+clé du site : 6LesCQwcAAAAAEY3VEXuFHRaTbs4Wg7Ef7bjdt2T
+
+clé secrète: 6LesCQwcAAAAAEmmqKBzxfwJAZt0jzIiKp6YP1dr
